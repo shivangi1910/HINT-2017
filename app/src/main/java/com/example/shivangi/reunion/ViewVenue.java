@@ -60,7 +60,7 @@ public class ViewVenue extends AppCompatActivity {
                 String id = idTextView.getText().toString();
                 String title = titleTextView.getText().toString();
 
-                Intent modify_intent = new Intent(getApplicationContext(), AddVenue.class);
+                Intent modify_intent = new Intent(getApplicationContext(), Venue_Vote.class);
                 modify_intent.putExtra("title", title);
                 modify_intent.putExtra("id", id);
                 startActivity(modify_intent);

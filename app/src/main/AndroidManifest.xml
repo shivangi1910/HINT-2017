@@ -26,11 +26,11 @@
             </intent-filter>
         </activity>
         <activity android:name=".Date" />
-        <activity android:name=".Time" />
         <activity android:name=".AddVenue" />
         <activity android:name=".ViewVenue" />
         <activity android:name=".SignUpActivity" />
         <activity android:name=".ForgotPasswordActivity" />
+        <activity android:name=".Venue_Vote"></activity>
     </application>
 
 </manifest>

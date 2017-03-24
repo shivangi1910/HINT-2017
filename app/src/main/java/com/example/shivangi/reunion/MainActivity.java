@@ -43,10 +43,7 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
     }
 
-    /*public void Time(View view) {
-        Intent intent = new Intent(this, Time.class);
-        startActivity(intent);
-    }*/
+    
 
     public void Venue(View view) {
         Intent intent = new Intent(this, ViewVenue.class);
