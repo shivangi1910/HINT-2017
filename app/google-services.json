@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "801755783427",
+    "firebase_url": "https://reunion-e6a8a.firebaseio.com",
+    "project_id": "reunion-e6a8a",
+    "storage_bucket": "reunion-e6a8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801755783427:android:975b2615eb367ab3",
+        "android_client_info": {
+          "package_name": "com.example.shivangi.reunion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801755783427-8mgdenbbasirge5qejd612fg5v8fla88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoEoTUUK9R0aFe0SVTPHs28bf3jDl2zD8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
